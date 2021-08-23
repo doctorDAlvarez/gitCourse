@@ -6,3 +6,7 @@ A collection of utility
 getRandomElement()
 {}
 ```
+
+```
+getURLSLug() new feature
+```
